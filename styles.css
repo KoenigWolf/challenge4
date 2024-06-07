@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    color: royalblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    border-bottom: 1px solid royalblue;
+    padding-bottom: 0.5em;
+}
+
+.quote-box {
+    border: 1px solid royalblue;
+    padding: 1em;
+    margin: 1em 0;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
